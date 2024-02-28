@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#This script installs an Apache server on a docker docker container
+
+
+service apache2 start
